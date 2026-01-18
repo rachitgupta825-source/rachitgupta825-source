@@ -1,5 +1,5 @@
 # 💫 About Me:
-Motivated Software Engineer with a solid foundation in Java, Python, SQL, and Data Structures Algorithms. Skilled
+Motivated Software Engineer with a solid foundation in Java, Python, SQL, and Data Structures Algorithm. Skilled
 in developing scalable applications, RESTful APIs, and full-stack web solutions, with hands-on experience in
 machine learning and backend development. Solved 160+ LeetCode problems in Java and passionate about
 problem-solving, fintech innovation, and building impactful systems.
