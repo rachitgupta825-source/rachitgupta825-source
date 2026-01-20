@@ -1,7 +1,7 @@
 # 💫 About Me:
 Motivated Software Engineer with a solid foundation in Java, Python, SQL, and Data Structures Algorithms. Skilled
 in developing scalable applications, RESTful APIs, and full-stack web solutions, with hands-on experience in
-machine learnings Model and backend development. Solved 160+ LeetCode problems in Java and passionate about
+machine learning and backend development. Solved 160+ LeetCode problems in Java and passionate about
 problem-solving, fintech innovation, and building impactful systems.
 
 
